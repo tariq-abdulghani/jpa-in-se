@@ -1,0 +1,4 @@
+tariq\services\CRUDService.class
+tariq\models\Todo.class
+tariq\utils\EntityManagerProducer.class
+tariq\services\TodoService.class
